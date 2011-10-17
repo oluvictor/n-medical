@@ -1,0 +1,13 @@
+#This is a documentation of the development process.
+
+= Introduction =
+
+This document is meant for developers
+
+ 
+= Feature List =
+
+This is a feature list that can be added to later:
+  * default area - This is an area considered as public domain
+  * admin area - This is an area where all admin tasks take place
+  * system area - takes care of app settings 
