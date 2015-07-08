@@ -1,0 +1,1 @@
+n-medical is a modular cross platform electronic medical records system. It features fully integrated electronic health, records, practice management, scheduling, electronic billing.
